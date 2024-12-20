@@ -60,25 +60,26 @@ CLI Requirements
 ## Installation
 Clone the repository:
 
-git clone git@github.com:git@github.com:nikitaamani/car-autospare-.git
+git clone 
+`git@github.com:git@github.com:nikitaamani/car-autospare-.git`
 
 
 ## Open the directory:
 
-cd [Folder Name]
+`cd [Folder Name]`
 
 ## To view the folder in your editor of choice:
 
-code .
+`code .`
 
 ## To run the path / review functions passed, you use: 
 python [folder/file]
 
 ## To install the virtual environment:
 
-pipenv install(To install dependencies needed for running of the app)
+`pipenv install`(To install dependencies needed for running of the app)
 
-pipenv shell(To start working in the virtual environment created)
+`pipenv shell`(To start working in the virtual environment created)
 
 ## Authors
 This work was implemented to by:
